@@ -1,3 +1,4 @@
 # First---repository
 I am a new user of github . trying to explore the advantage or uses of github.<br>
-Author : ANOWER FERDOS.
+Author : ANOWER FERDOS.<br>
+We use "clone" commend for my uses of my repository by github(use remote word) or laptop/pc(use local word).
